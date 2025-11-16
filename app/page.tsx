@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { HeroParallax } from "../components/ui/hero-parallax";
-import { WavyBackground } from "@/components/ui/wavy-background";
 import { Timeline } from "@/components/ui/timeline";
 import { AnimatedTestimonials } from "@/components/ui/animated-testimonials";
 import { Vortex } from "@/components/ui/vortex";
