@@ -27,7 +27,7 @@ export default function HeroParallaxDemo() {
       </div>
       <HeroParallax products={products} />
       <Timeline data={data} />
-      <AnimatedTestimonials testimonials={testimonials} />;
+      <AnimatedTestimonials testimonials={testimonials} />
     </div>
   );
 }
