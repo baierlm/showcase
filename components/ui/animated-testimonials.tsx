@@ -40,6 +40,7 @@ export const AnimatedTestimonials = ({
   }, [autoplay]);
 
   const randomRotateY = () => {
+    // eslint-disable-next-line react-hooks/purity
     return Math.floor(Math.random() * 21) - 10;
   };
   return (
